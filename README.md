@@ -3,6 +3,10 @@ C
 C++
 JAVA 
 
+C#
+ORACLE
+PINACLE
+
 BLUE J
 LINEX
 UI
